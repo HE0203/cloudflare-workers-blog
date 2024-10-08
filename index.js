@@ -2,12 +2,12 @@
 const OPT = {
     "user" : "HE", //后台密码请修改
     "password" : "he18827766930", //后台密码
-    "siteDomain" : "blog.xn--6kq76ku6g39d0vk.us.kg",// 域名(不带https 也不带/)
+    "siteDomain" : "xn--6kq76ku6g39d0vk.us.kg",// 域名(不带https 也不带/)
     "siteName" : "HE workers blog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
-    "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
-    "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
+    "cacheZoneId":"d0705bf1c28de6b8ca0c173c89d7e973",//清理缓存用 cf区域 ID
+    "cacheToken":"4214tm1yTmp13kp_tz9lkycmFGMIYfnCUJ7Mv2Zm",//清理缓存用 cf API token
 	
     "pageSize" : 5,//每页文章数
     "recentlySize" : 6,//最近文章数
