@@ -6,8 +6,8 @@ const OPT = {
     "siteName" : "HE workers blog",//博客名称
     "siteDescription":"A Blog Powered By Cloudflare Workers and KV",//博客描述
     "keyWords":"cloudflare,KV,workers,blog",//关键字
-    "cacheZoneId":"d0705bf1c28de6b8ca0c173c89d7e973",//清理缓存用 cf区域 ID
-    "cacheToken":"KZcMRw6J3SoQ1JONvkp6ThOeHSIX8Lj6vxFDBcp_",//清理缓存用 cf API token
+    "cacheZoneId":"cc868e8edce4027ad4a735741111111",//清理缓存用 cf区域 ID
+    "cacheToken":"LNxRWH-MPMIGnp8qhyT8FUsjDRN6tdOnmaaaaaaa",//清理缓存用 cf API token
 	
     "pageSize" : 5,//每页文章数
     "recentlySize" : 6,//最近文章数
